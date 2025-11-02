@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<body style="font-family:Arial, sans-serif;padding:30px;">
+<h1>Security Training — Simulated Phish</h1>
+<p>This was a simulated phishing test for <strong>ChatBridge</strong>.</p>
+<p><strong>You clicked a suspicious registration link.</strong></p>
+<h3>Tips</h3>
+<ol>
+<li>Check the sender email (not just the display name).</li>
+<li>Hover links to see the real address before clicking.</li>
+<li>Never enter passwords on pages reached from unexpected emails.</li>
+</ol>
+<p><button onclick="window.close()">Done</button></p>
+</body>
+</html> 
